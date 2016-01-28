@@ -54,4 +54,23 @@ header {
 	padding: 5%;
 }
 
+#sidebar {
+	padding: 5%;
+	text-align: center;
+	margin: 0;
+}
 
+#who {
+	padding: 5%;
+	margin: 0;
+	text-align: left;
+	border-right: 1px solid #999;
+}
+
+#who h1 {
+	text-align: center;
+}
+
+#who p {
+	text-indent: 2em;
+}
